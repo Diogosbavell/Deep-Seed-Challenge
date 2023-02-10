@@ -29,7 +29,7 @@ databases, such as mysql or postgres, for example.
 
 Compilation:
 -----------
-version: g++.exe (MinGW.org GCC Build-2) 9.2.0
+version: g++.exe (MinGW.org GCC Build-2) 9.2.0 <br />
 To compile: g++ *.cpp
 
 Author:

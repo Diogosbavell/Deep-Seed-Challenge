@@ -30,7 +30,7 @@ de bancos de dados, como o mysql ou postgres, por exemplo.
 
 Compilação:
 -----------
-versão: g++.exe (MinGW.org GCC Build-2) 9.2.0
+versão: g++.exe (MinGW.org GCC Build-2) 9.2.0 <br />
 compilar: g++ *.cpp
 
 Autor:
