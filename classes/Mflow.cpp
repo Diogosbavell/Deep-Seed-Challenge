@@ -103,7 +103,6 @@ void Mflow::SubseaPipeline()
     for (int i = 0; i < this->diametersspool.size(); i++)
     {
         Paverage += (this->diametersWell[i] + this->diametersspool[i]) / 2;
-        cout<<this->diametersWell[i]<<" "<<this->diametersspool[i]<<" "<<Paverage<<"\n";
     }
 
     Paverage = Paverage / this->nWell;
