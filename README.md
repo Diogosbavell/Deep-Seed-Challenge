@@ -33,6 +33,10 @@ Compilação:
 versão: g++.exe (MinGW.org GCC Build-2) 9.2.0 <br />
 compilar: g++ *.cpp
 
+Observações:
+------------
+As a means of visualization, the code generates results in the outputData folder. Pipe diameter values ​​are presented in the Mflow1.txt and Mgeometry1.txt files, which are directly linked to each calculation model with the same name. Furthermore, a combination of html, css and javascript was used to present the data in a responsive HTML page, which is opened right after the code performs the calculations. The aim was to improve the experience with the developer.
+
 Autor:
 ------
 Diogo Borges.
