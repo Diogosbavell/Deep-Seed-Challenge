@@ -21,7 +21,7 @@ Premissas:
 ------------
 1. Foram utilizados arquivos csv como input. Dessa forma, esperasse uma formatação adequada
 ao formato .csv sem linhas vazias com separação por vírgulas;
-2. As quantidade de linhas das tabelas referentes aos poços e tubulações foram consideradas como iguais,
+2. As quantidade de linhas das tabelas referentes aos wells e spools foram consideradas como iguais,
 ou seja, não foi considerado o balanceamento das tabelas. Espera-se que independente da origem as
 tabelas possuam correlações, como no caso do banco de dados por exemplo; e
 3. O spool name e o well name foram considerados como índices de paridade, a qual é feita por meio

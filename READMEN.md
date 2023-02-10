@@ -20,7 +20,7 @@ Project developed based on the challenge presented in the document **Tests of lo
 Premises:
 ------------
 1. Csv files were used as input. So expect proper formatting to .csv format without empty lines with comma separation;
-2. The number of rows in the tables referring to wells and pipes were considered equal,
+2. The number of rows in the tables referring to wells and spools were considered equal,
 that is, the balancing of the tables was not considered. It is expected that regardless of the origin the
 tables have correlations, as in the case of the database for example; e
 3. The spool name and well name were considered as parity indexes, which is done through
