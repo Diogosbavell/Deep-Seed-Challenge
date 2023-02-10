@@ -22,7 +22,7 @@ Premises:
 1. Csv files were used as input. So expect proper formatting to .csv format without empty lines with comma separation;
 2. The number of rows in the tables referring to wells and spools were considered equal,
 that is, the balancing of the tables was not considered. It is expected that regardless of the origin the
-tables have correlations, as in the case of the database for example; e
+tables have correlations, as in the case of the database for example; and
 3. The spool name and well name were considered as parity indexes, which is done through
 of the growing organization of items. Such a measure can also be used for data from
 databases, such as mysql or postgres, for example.
