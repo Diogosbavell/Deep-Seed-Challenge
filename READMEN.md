@@ -34,7 +34,10 @@ To compile: g++ *.cpp
 
 Comments:
 ------------
-As a means of visualization, the code generates results in the outputData folder. Pipe diameter values ​​are presented in the Mflow1.txt and Mgeometry1.txt files, which are directly linked to each calculation model with the same name. Furthermore, a combination of html, css and javascript was used to present the data in a responsive HTML page, which is opened right after the code performs the calculations. The aim was to improve the experience with the developer.
+1. As a means of visualization, the code generates results in the outputData folder. Pipe diameter values ​​are presented in the Mflow1.txt and Mgeometry1.txt files, which are directly linked to each calculation model with the same name. Furthermore, a combination of html, css and javascript was used to present the data in a responsive HTML page, which is opened right after the code performs the calculations. The aim was to improve the experience with the developer; and
+2. The input files are inserted in the inputData folder with the respective names: spool.csv and well.csv.
+
+
 
 Author:
 ------
