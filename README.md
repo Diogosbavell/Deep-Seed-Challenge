@@ -35,7 +35,7 @@ compilar: g++ *.cpp
 
 Observações:
 ------------
-1.Como forma de visualização, o código gera resultados na pasta outputData. Os valores dos diâmetros dos tubos são apresentados nos arquivos Mflow1.txt e Mgeometry1.txt, que estão diretamente ligados a cada modelo de cálculo com o mesmo nome. Além disso, foi utilizada uma combinação de html, css e javascript para apresentar os dados em uma página HTML responsiva, que é aberta logo após o código realizar os cálculos. O objetivo era melhorar a experiência com o desenvolvedor; e
+1. Como forma de visualização, o código gera resultados na pasta outputData. Os valores dos diâmetros dos tubos são apresentados nos arquivos Mflow1.txt e Mgeometry1.txt, que estão diretamente ligados a cada modelo de cálculo com o mesmo nome. Além disso, foi utilizada uma combinação de html, css e javascript para apresentar os dados em uma página HTML responsiva, que é aberta logo após o código realizar os cálculos. O objetivo era melhorar a experiência com o desenvolvedor; e
 2. Os arquivos de entrada são inseridor na pasta inputData com os respectivos nomes: spool.csv e well.csv. 
 
 Autor:
